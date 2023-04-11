@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N6/8QZF6Oy2HmT4A3NDKywAkc4FIuk1Z2Rb7SQBr6suNiozKOhqJmF1P8Fb434FSB9YpObMar65iBwlhTUQoHA==",
+  "dgSpecHash": "7fbC0ykosiqV3a/GpJX/4yqn7tKr4AYeYhA2NARRbfeWJfKkkCWI5QSSYPUlfL5RNRMSN/1YNBQ46lIJlWc0CA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saltu\\source\\repos\\MicroservicesWithDesignPatterns\\Shared\\Shared.csproj",
+  "projectFilePath": "C:\\Users\\saltu\\Documents\\GitHub\\MicroservicesWithDesignPatterns\\Shared\\Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
