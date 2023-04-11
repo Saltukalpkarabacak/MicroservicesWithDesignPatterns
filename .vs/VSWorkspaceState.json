@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Order.API",
+    "\\Order.API\\Models"
   ],
+  "SelectedNode": "\\Order.API\\Models\\Adress.cs",
   "PreviewInSolutionExplorer": false
 }
