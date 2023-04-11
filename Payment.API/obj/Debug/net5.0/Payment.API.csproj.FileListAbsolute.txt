@@ -46,3 +46,10 @@ C:\Users\saltu\source\repos\MicroservicesWithDesignPatterns\Payment.API\obj\Debu
 C:\Users\saltu\source\repos\MicroservicesWithDesignPatterns\Payment.API\obj\Debug\net5.0\Payment.API.pdb
 C:\Users\saltu\source\repos\MicroservicesWithDesignPatterns\Payment.API\obj\Debug\net5.0\Payment.API.genruntimeconfig.cache
 C:\Users\saltu\source\repos\MicroservicesWithDesignPatterns\Payment.API\obj\Debug\net5.0\ref\Payment.API.dll
+C:\Users\saltu\source\repos\MicroservicesWithDesignPatterns\Payment.API\bin\Debug\net5.0\Shared.dll
+C:\Users\saltu\source\repos\MicroservicesWithDesignPatterns\Payment.API\bin\Debug\net5.0\Shared.pdb
+C:\Users\saltu\source\repos\MicroservicesWithDesignPatterns\Payment.API\obj\Debug\net5.0\staticwebassets\Payment.API.StaticWebAssets.Pack.cache
+C:\Users\saltu\source\repos\MicroservicesWithDesignPatterns\Payment.API\obj\Debug\net5.0\staticwebassets\msbuild.Payment.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\saltu\source\repos\MicroservicesWithDesignPatterns\Payment.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Payment.API.props
+C:\Users\saltu\source\repos\MicroservicesWithDesignPatterns\Payment.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Payment.API.props
+C:\Users\saltu\source\repos\MicroservicesWithDesignPatterns\Payment.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Payment.API.props

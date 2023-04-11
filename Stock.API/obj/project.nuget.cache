@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LBhWWhNKgpUHFh9v+reEsnZb2xRVEoO3h+42M7CBkUh49zq/5I1FZBdFXDXRqpfB08qOIyhcZVKlhvUBpLb3Jg==",
+  "dgSpecHash": "T18ylzXskbhQ7lNDpxdmlV4EckWXU0BkiR2Vf/UvPnTx0ByI7GvqemSKf1wZT+MwKvXoyAg4O6AW8pPZ9/VB9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\saltu\\source\\repos\\MicroservicesWithDesignPatterns\\Stock.API\\Stock.API.csproj",
   "expectedPackageFiles": [
