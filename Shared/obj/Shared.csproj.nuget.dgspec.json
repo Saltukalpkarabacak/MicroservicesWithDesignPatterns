@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saltu\\Documents\\GitHub\\MicroservicesWithDesignPatterns\\Shared\\Shared.csproj": {}
+    "C:\\Users\\saltu\\source\\repos\\MicroservicesWithDesignPatterns\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saltu\\Documents\\GitHub\\MicroservicesWithDesignPatterns\\Shared\\Shared.csproj": {
+    "C:\\Users\\saltu\\source\\repos\\MicroservicesWithDesignPatterns\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saltu\\Documents\\GitHub\\MicroservicesWithDesignPatterns\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\saltu\\source\\repos\\MicroservicesWithDesignPatterns\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\saltu\\Documents\\GitHub\\MicroservicesWithDesignPatterns\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\saltu\\source\\repos\\MicroservicesWithDesignPatterns\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\saltu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saltu\\Documents\\GitHub\\MicroservicesWithDesignPatterns\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\saltu\\source\\repos\\MicroservicesWithDesignPatterns\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saltu\\AppData\\Roaming\\NuGet\\NuGet.Config",
