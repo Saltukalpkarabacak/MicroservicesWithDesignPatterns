@@ -68,8 +68,9 @@ namespace Order.API.Controllers
 
             orderCreateDto.orderItems.ForEach(x => {
                 OrderCreatedEvent.orderItems.Add(new OrderItemMessage() {
-                    Count = x.Count,
+                    Count = x.Count, 
                     ProductId=x.ProductId
+
                 });
             });
 
