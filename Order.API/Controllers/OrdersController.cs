@@ -70,7 +70,6 @@ namespace Order.API.Controllers
                 OrderCreatedEvent.orderItems.Add(new OrderItemMessage() {
                     Count = x.Count, 
                     ProductId=x.ProductId
-
                 });
             });
 
